@@ -18,16 +18,19 @@ Imput
 3 2 1 1 1
 2 2 1 2 2
 1 1 1 1 2
-3 1 3 1 2```
+3 1 3 1 2
+```
 
 Output
-```4```
+```4
+```
 
 Explicație
 Pe hartă se observă 5 zone:
 ```3 3  3 2  2 2  3 3
 3 2       2
-2 2       2```
+2 2       2
+```
 Doar una dintre ele nu conține mlaștini. Ea are suprafața 4.
 
 #### Execute
