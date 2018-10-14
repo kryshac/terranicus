@@ -13,7 +13,8 @@ Cerinţă: scrieţi un program care să determine suprafața celei mai mare ”z
 # Exemplu
 
 Imput
-```5 5
+```
+5 5
 3 3 1 3 2
 3 2 1 1 1
 2 2 1 2 2
@@ -22,12 +23,14 @@ Imput
 ```
 
 Output
-```4
+```
+4
 ```
 
 Explicație
 Pe hartă se observă 5 zone:
-```3 3  3 2  2 2  3 3
+```
+3 3  3 2  2 2  3 3
 3 2       2
 2 2       2
 ```
